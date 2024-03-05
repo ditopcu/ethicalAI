@@ -1,0 +1,2 @@
+# ethicalAI
+Ethical AI Resources
